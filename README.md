@@ -1,6 +1,6 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ2MHJ1aXBydXM0ejFiNWNhNXp0MmR4amkxZDA5cGk4OHVuYjVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nPCNWmIOcZny6Vfksa/giphy.gif" width="100"/>  Hello World, I'm Glad to Meet You
 
-![Banner de TABOO%"](https://raw.githubusercontent.com/TABOO52/TABOO52/main/banner-animado.gif)
+![Banner de TABOO%"](https://raw.githubusercontent.com/TABOO52/TABOO52/main/banner_github.gif)
 
 ### Skills
 
